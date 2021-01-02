@@ -113,16 +113,16 @@ zugreifen.
 -----
 
 ## Schritt 5. Lerne mehr über Bitcoin
-*Aim: Further develop your understanding of bitcoin*
+*Ziel: Baue dein Verständnis von Bitcoin aus*
 
-###### Listen
-1. <a href="https://youtu.be/Zbm772vF-5M?t=308" target="_blank">The Bitcoin Standard</a>
-2. <a href="https://youtu.be/OrMHQhDKhrU" target="_blank">Intro to Bitcoin Austrian thought</a>
+###### Zum Anhören:
+1. <a href="https://youtu.be/Zbm772vF-5M?t=308" target="_blank">Der Bitcoin Standard</a>
+2. <a href="https://youtu.be/OrMHQhDKhrU" target="_blank">Intro zu Bitcoin und der Österreichischen Schule</a>
 
-###### Read
-1. <a href="https://www.amazon.com/dp/1641990503" target="_blank">The Little Bitcoin Book</a>
-2. <a href="https://www.amazon.com/Bitcoin-Sovereignty-mathematics-Knut-Svanholm/dp/1090109911" target="_blank">Sovereignty through mathematics</a>
-3. <a href="https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861" target="_blank">The Bitcoin Standard</a> (<a href="https://www.podbean.com/eu/pb-48576-a563c0" target="_blank">Listen</a> to the prologue)
+###### Zum Lesen:
+1. <a href="https://www.amazon.com/dp/1641990503" target="_blank">Das kleine Bitcoin Buch</a>
+2. <a href="https://www.amazon.de/dp/3982109558/" target="_blank">Selbstbestimmung durch Mathematik</a>
+3. <a href="https://www.amazon.de/dp/3982109507/" target="_blank">Der Bitcoin Standard</a>
 
 -----
 
