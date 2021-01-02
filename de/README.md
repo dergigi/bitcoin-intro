@@ -27,12 +27,16 @@
 -----
 
 ## Schritt 1. Hol dir eine Wallet
-*Aim: Make and backup a bitcoin wallet*
+*Ziel: Erstellen und sichern Sie eine Bitcoin-Wallet*
 
-1. 	Download <a href="https://play.google.com/store/apps/details?id=com.samourai.wallet" target="_blank">Samourai Wallet</a> for Android or <a href="https://blockstream.com/green/" target="_blank">Blockstream Green wallet for iOS</a>.
-2.	Make a new wallet and write down the words presented to you using pen and paper. These words act as a key to access your bitcoin.
-3.  Make another copy of these words (again, using pen and paper) and put them both somewhere hidden/safe in your house.
-4.	In the wallet, click receive and copy the address shown on screen, this can be done by clicking on the QR code.
+1. 	Lade dir <a href="https://play.google.com/store/apps/details?id=com.samourai.wallet" target="_blank">Samourai Wallet</a> für Android oder <a href="https://blockstream.com/green/" target="_blank">Blockstream Green Wallet</a> für iOS herunter.
+2.	Erstelle dort eine neue Wallet und schreibe dir die Wörter, die dir dargestellt
+werden, mit Stift und Papier auf. Diese Wörter dienen als Schlüssel für den Zugriff auf deine
+Bitcoin.
+3.  Mache dir eine weitere Kopie dieser Wörter (wieder mit Stift und Papier) und lege beide an
+einem versteckten / sicheren Ort in deinem Haus ab.
+4.	Klicke in der Wallet auf Empfangen und kopiere die auf dem Bildschirm angezeigte Adresse.
+Klicke dazu auf den QR-Code.
 
 -----
 
