@@ -161,22 +161,22 @@ Empfangen von Transaktionen verwendest.
 | C | Nicht-technischer Enthusiast | Angemessen kostengünstig und schnell | Benötigt einige Zeit für die Einrichtung, obwohl in der Regel in den Handbüchern die Einrichtung der Hardware so einfach wie möglich angegeben ist. |
 | D | Jeder, der sich diese Variante bequem leisten kann | Schnell und einfach | Hohe Kosten im Vergleich zu den Alternativen |
 
-##### Route A: Bitcoin-Core on your day to day computer
-- Download <a href="https://github.com/lightning-power-users/node-launcher/releases" target="_blank">NodeLauncher</a>, a simple program to help you intstall bitcoin core.
+##### Variante A: Bitcoin-Core auf deinem Alltagscomputer
+- Lade dir <a href="https://bitcoincore.org/en/download/" target="_blank">Bitcoin Core</a> herunter und installiere es.
 
-##### Route B: Bitcoin-core on an available always-on computer
+##### Variante B: Bitcoin-Core auf einem immer verfügbaren Computer
 - Video Tutorial: <a href="https://www.youtube.com/watch?v=0Zq_JdExHkE&list=PLmoQ11MXEmagwLs0NtjadkyVwc-CFfr4h" target="_blank">Install Linux</a> & <a href="https://www.youtube.com/watch?v=q0Uen8p4feM&list=PLmoQ11MXEmag9I2ibHnubzJdjDqypujCk" target="_blank">Install Core</a>
-- Written Tutorial <a href="https://medium.com/hackernoon/a-complete-beginners-guide-to-installing-a-bitcoin-full-node-on-linux-2018-edition-cb8e384479ea" target="_blank">Option 1 </a> / <a href="https://github.com/k3tan172/ubuntu-node-box/" target="_blank">Option 2</a>
+- Schriftliches Tutorial: <a href="https://medium.com/hackernoon/a-complete-beginners-guide-to-installing-a-bitcoin-full-node-on-linux-2018-edition-cb8e384479ea" target="_blank">Option 1 </a> / <a href="https://github.com/k3tan172/ubuntu-node-box/" target="_blank">Option 2</a>
 
 
-##### Route C: Build a standalone node
-- Enthusiasts who want to control their own bitcoin full stack: <a href="http://mynodebtc.com/" target="_blank">MyNodeBTC</a>
-- Samourai Wallet Users: <a href="https://bitcoin-on-raspberry-pi-4.gitbook.io/" target="_blank">DOJO</a>
-- Other Options: <a href="https://stadicus.github.io/RaspiBolt/" target="_blank">RaspiBolt</a> / <a href="https://github.com/rootzoll/raspiblitz" target="_blank">RaspiBlitz</a>
+##### Variante C: Stelle dir deine eigene Full-Node zusammen
+- Enthusiasten, die ihren eigenen Bitcoin-Full-Stack steuern möchten:: <a href="http://mynodebtc.com/" target="_blank">MyNode</a>
+- Samourai Wallet Benutzer: <a href="https://bitcoin-on-raspberry-pi-4.gitbook.io/" target="_blank">DOJO</a>
+- Andere Optionen: <a href="https://github.com/rootzoll/raspiblitz" target="_blank">RaspiBlitz</a>, <a href="https://getumbrel.com/" target="_blank">Umbrel</a>
 
-##### Route D: Buy a pre-built standalone node
-- Price sensitive enthusiasts who want to control their own bitcoin full stack: <a href="http://mynodebtc.com/products/one" target="_blank">MyNodeBTC</a> / <a href="https://raspiblitz.com/" target="_blank">Raspiblitz</a> (<a href="https://shop.fulmo.org/" target="_blank">EU</a> / <a href="https://lightninginabox.co/product/raspiblitz-raspberry-pi-lightning-node/" target="_blank">USA </a>)
-- Enthusiasts who want high performance: <a href="https://www.nodl.it/" target="_blank">NODL</a> / <a href="https://shop.nodl.it/en/home/38-nodl-samourai-edition.html" target="_blank">NODL Samourai</a>
+##### Variante D: Kaufe dir eine vorgefertigte Full-Node
+- Preissensible Enthusiasten, die ihren eigenen Bitcoin-Full-Stack kontrollieren möchten: <a href="http://mynodebtc.com/products/one" target="_blank">MyNodeBTC</a> / <a href="https://raspiblitz.com/" target="_blank">Raspiblitz</a> (<a href="https://shop.fulmo.org/" target="_blank">EU</a> / <a href="https://lightninginabox.co/product/raspiblitz-raspberry-pi-lightning-node/" target="_blank">USA</a>)
+- Enthusiasten, die vole Leistung wollen: <a href="https://www.nodl.it/" target="_blank">NODL</a> / <a href="https://shop.nodl.it/en/home/38-nodl-samourai-edition.html" target="_blank">NODL Samourai</a>
 
 -----
 
