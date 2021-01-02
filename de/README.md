@@ -96,11 +96,11 @@ zugreifen.
 -----
 
 ## Schritt 3. Warum sollte man Bitcoin verwenden?
-*Aim: Learn why bitcoin is useful*
+*Ziel: Erfahre, warum Bitcoin nützlich ist*
 
-1. Read '<a href="https://medium.com/@wiz/why-bitcoin-359ada12629e" target="_blank">Why Bitcoin</a>' by [Wiz](https://twitter.com/wiz)
-2. Read '<a href="https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1" target="_blank">The Bullish Case for Bitcoin</a>' by [Vijay Boyapati](https://twitter.com/real_vijay)
-3. Watch '<a href="https://youtu.be/q0XxsabgJEI?t=31" target="_blank">Why Bitcoin Matters</a>' by [Aleks Svetski](https://twitter.com/AleksSvetski)
+1. Lese '<a href="https://medium.com/@wiz/why-bitcoin-359ada12629e" target="_blank">Warum Bitcoin</a>' von [Wiz](https://twitter.com/wiz)
+2. Lese '<a href="https://medium.com/aprycotmedia/das-bullische-argument-f%C3%BCr-bitcoin-9665e9375727" target="_blank">Das bullische Argument für Bitcoin</a>' von [Vijay Boyapati](https://twitter.com/real_vijay)
+3. Schau dir '<a href="https://youtu.be/q0XxsabgJEI?t=31" target="_blank">Warum Bitcoin Wichtig Ist</a>' von [Aleks Svetski](https://twitter.com/AleksSvetski) an
 
 -----
 
