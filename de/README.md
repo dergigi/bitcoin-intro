@@ -9,20 +9,20 @@
 - Behalte immer die volle Kontrolle über deine Bitcoin (verzichte bei Verwahrung auf Drittanbieter)
 - Fokusiere dich auf Bitcoin und vermeide Betrüger (verwende Bitcoin-Only-Tools & -Dienste)
 
-| Step | Description                                    |Done|
-| ---- | -----------                                    |---|
-| 1. | Hol dir eine Wallet                              |   |
-| 2. | Kaufe etwas Bitcoin                              |   |
-| 3. | Warum sollte man Bitcoin verwenden?              |   |
-| 4. | Was ist Bitcoin?                                 |   |
-| 5. | Lerne mehr über Bitcoin                          |   |
-| 6. | Verbessere dein Backup                           |   |
-| 7. | Lass eine Node laufen                            |   |
-| 8. | Involviere Dich!                                 |   |
-| 9. | Privatsphäre bewahren                            |   |
-| 10. | Bitcoin MicroPayments (Lightning)               |   |
-| 11. | Technische Details                              |   |
-| 12. | Privat Kaufen                                   |   |
+| Schritt | Beschreibung                                    | Erledigt |
+| ----    | -----------                                     | ---      |
+| 1.      | Hol dir eine Wallet                             |          |
+| 2.      | Kaufe etwas Bitcoin                             |          |
+| 3.      | Warum sollte man Bitcoin verwenden?             |          |
+| 4.      | Was ist Bitcoin?                                |          |
+| 5.      | Lerne mehr über Bitcoin                         |          |
+| 6.      | Verbessere dein Backup                          |          |
+| 7.      | Lass eine Node laufen                           |          |
+| 8.      | Involviere Dich!                                |          |
+| 9.      | Privatsphäre bewahren                           |          |
+| 10.     | Bitcoin MicroPayments (Lightning)               |          |
+| 11.     | Technische Details                              |          |
+| 12.     | Privat Kaufen                                   |          |
 
 -----
 
