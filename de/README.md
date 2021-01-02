@@ -199,13 +199,13 @@ Empfangen von Transaktionen verwendest.
 -----
 
 ## Schritt 10. Bitcoin MicroPayments (Lightning)
-*Aim: Understand what the lightning network is and how you can use it.*
+*Ziel: Verstehe, was das Lightning Netzwerk ist und wie du es verwenden kannst.*
 
-1. Download a non-custodial bitcoin lightning wallet
-2. Transfer some bitcoin to it (a small amount)
-3. Send bitcoin over lightning
-4. Watch <a href="https://www.youtube-nocookie.com/embed/3PcR4HWJnkY" target="_blank">The Importance of Layer Two</a>
-5. Read <a href="https://github.com/6102bitcoin/bitcoin-intro/raw/master/QA%20bitcoin-159-165.pdf" target="_blank">LNP/BP</a> as compared to TCP/IP (extract from <a href="https://twitter.com/QAaboutBitcoin" target="_blank">Q/A About Bitcoin</a>).
+1. Lade eine Lightning Wallet herunter.
+2. Sende etwas Bitcoin an deine Lightning Wallet.
+3. Sende ein paar Satoshis über Lightning.
+4. Schau dir <a href="https://www.youtube-nocookie.com/embed/3PcR4HWJnkY" target="_blank">The Importance of Layer Two</a> an.
+5. Lese den Vergleich von TCP/IP und <a href="https://github.com/6102bitcoin/bitcoin-intro/raw/master/QA%20bitcoin-159-165.pdf" target="_blank">LNP/BP</a> (ein Auszug von <a href="https://twitter.com/QAaboutBitcoin" target="_blank">Q/A About Bitcoin</a>).
 
 -----
 
