@@ -41,28 +41,30 @@ Klicke dazu auf den QR-Code.
 -----
 
 ## Schritt 2. Kaufe etwas Bitcoin
-*Aim: Get a small amount of bitcoin*
+*Ziel: Hole dir eine kleine Menge Bitcoin*
 
-- Only buy a small amount of bitcoin to start (in a later step we will improve your backup redundancy).
-- These recommendations let you buy bitcoin quickly at the cost of reduced privacy.
-- Buying Privately is detailed in a <a href="#step-12-buying-privately" target="_blank">later step.</a>
+- Kaufe dir zunächst nur eine kleine Menge Bitcoin (in einem späteren Schritt verbessern wir
+deine Backup-Redundanz).
+- Die folgenden Empfehlungen lassen dich schnell zu etwas Bitcoin kommen, auf Kosten deiner Privatsphäre.
+- Wie du Bitcoin privat kaufen kannst wird in einem <a href="#schritt-12-privat-kaufen" target="_blank">späteren Schritt</a> beschrieben.
 
-USD (1.5% Fee)
+USD (1.5% Gebühr)
 
-0. Check cashapp on <a href="https://www.trustpilot.com/review/cash.app" target="_blank">Trustpilot</a>
-1. Download <a href="https://cash.app/" target="_blank">Cashapp</a> from the app store.
-2. Make an account & connect a Debit Card.
-3. Buy 25 USD of BTC.
-4. Find the Withdraw Bitcoin button, specify an amount and paste your first bitcoin address from Step 1. 5. Wait for the funds to appear in green wallet (< 24 hrs).
+0. Schau dir CashApp auf <a href="https://www.trustpilot.com/review/cash.app" target="_blank">Trustpilot</a> an.
+1. Lade dir <a href="https://cash.app/" target="_blank">CashApp</a> aus dem App Store herunter.
+2. Erstelle ein Konto und verbinde deine Debitkarte.
+3. Kaufe Bitcoin (BTC) im Wert von ca. 25 USD.
+4. Suche in der App die Schaltfläche Bitcoin abheben, gib einen Betrag ein und füge deine erste
+Bitcoin-Adresse ein (siehe Schritt 1). Warte, bis das Guthaben in deiner Wallet angezeigt wird (sollte weniger als 24 Stunden dauern).
 
-AUD (0% Fee)
+AUD (0% Gebühr)
 
-0. Check Bitaroo on <a href="https://au.trustpilot.com/review/www.bitaroo.com.au" target="_blank">Trustpilot</a>
-1. Go to <a href="https://trade.bitaroo.com.au/express" target="_blank">Bitaroo Express Buy</a>.
-2. Sign up & deposit 25 AUD.
-3. Buy 25 AUD of BTC.
-4. Click 'Withdraw', paste your first bitcoin address from Step 1, click 'max' amount to withdraw, confirm.
-5. Wait for the funds to appear in green wallet (< 24 hrs).
+0. Schau dir Bitaroo auf <a href="https://au.trustpilot.com/review/www.bitaroo.com.au" target="_blank">Trustpilot</a> an.
+1. Gehe auf <a href="https://trade.bitaroo.com.au/express" target="_blank">Bitaroo Express Buy</a>.
+2. Melde dich an und zahle 25 AUD ein.
+3. Kaufe Bitcoin (BTC) im Wert von 25 AUD.
+4. Klicke auf 'Abheben', füge deine Bitcoin-Adresse von Schritt 1 ein, klicke auf 'max' um den Maximalbetrag abzuheben und bestätige dies.
+5. Warte, bis das Guthaben in deiner Wallet angezeigt wird (sollte weniger als 24 Stunden dauern).
 
 
 CAD (BullBitcoin - 0.25% Fee)
