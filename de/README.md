@@ -80,12 +80,12 @@ CHF (jeder SBB Ticketautomat - 6% Fee)
 
 0. Hebe etwas Bargeld ab (CHF oder EUR) und gehe zum nächsten SBB-Ticketautomaten.
 1. Wähle "Prepaid" und dann "Bitcoin aufladen".
-2. Öffne deine Bitcoin-Wallet auf deinem Handy, und klicke auf Bitcoin empfangen
-3. Scanne den QR-Code welcher in deiner Bitcoin-Wallet angezeigt wird am Automaten ein
-4. Gib den gewünschten Betrag ein (eine beliebige Summe zwischen CHF 150 und CHF 500)
-5. Bestätige das erhaltene Angebot
+2. Öffne deine Bitcoin-Wallet auf deinem Handy, und klicke auf Bitcoin empfangen.
+3. Scanne den QR-Code welcher in deiner Bitcoin-Wallet angezeigt wird am Automaten ein.
+4. Gib den gewünschten Betrag ein (eine beliebige Summe zwischen CHF 150 und CHF 500).
+5. Bestätige das erhaltene Angebot.
 6. Gib deine Handynummer und den Sicherheitscode (mTAN) ein, welcher an dein Handy gesendet
-wurde
+wurde.
 
 Herzlichen Glückwunsch! Du besitzt nun offiziell etwas Bitcoin. Solange du diese
 24 Wörter sicher aufbewahrst, kann niemand das Geld aus der von dir erstellten
