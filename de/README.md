@@ -136,7 +136,7 @@ gestanztem Metall).
 
 -----
 
-# Schritt 7. Lass eine Node laufen
+## Schritt 7. Lass eine Node laufen
 *Ziel: Verstehe, wie und warum Bitcoiner ihre eigenen Full-Nodes laufen lassen.*
 
 Hinweis: Eine Full-Node kommt dir nur zugute, wenn du deine Node zum Senden und
