@@ -137,28 +137,29 @@ gestanztem Metall).
 -----
 
 # Schritt 7. Lass eine Node laufen
-*Aim: Understand how and why bitcoiners run their own full nodes.*
+*Ziel: Verstehe, wie und warum Bitcoiner ihre eigenen Full-Nodes laufen lassen.*
 
-Note: Running a node only benefits you if you use your node to send and receive transactions.
+Hinweis: Eine Full-Node kommt dir nur zugute, wenn du deine Node zum Senden und
+Empfangen von Transaktionen verwendest.
 
-1. Watch <a href="https://www.youtube-nocookie.com/embed/D11R0W2uxeM" target="_blank">Benefits of a Full Node</a>
-2. Evaluate below tables to determine which route seems most suitable given:
-
-
-|                       | Route A       | Route B       | Route C       | Route D       |  
-| --                    | --            | --            | --            | --            |
-| Cost                  | Zero          | Zero          | Low           | **High**      |
-| Time Requirement      | Low           | **High**      | **Mid/High**  | Low           |
-| Setup Difficulty      | Low           | **High**      | Mid           | Low           |
-| Downtime              | **High**      | Low           | Low           | Low           |
+1. Schau dir <a href="https://www.youtube-nocookie.com/embed/D11R0W2uxeM" target="_blank">Benefits of a Full Node</a> an.
+2. Es gibt mehrere Varianten wie man zu einer Full-Node kommt. Die folgende Tabelle hilft dir bei der Entscheidung welche Variante die Richtige für dich ist:
 
 
-| Route | Ideal User | Positives     | Negatives     |
+|                       | Variante A    | Variante B    | Variante C      | Variante D    |  
+| --                    | --            | --            | --              | --            |
+| Kosten                | Keine         | Keine         | Niedrig         | **Hoch**      |
+| Zeitbedarf            | Niedrig       | **Hoch**      | **Mittel/Hoch** | Niedrig       |
+| Schwierigkeit         | Leicht        | **Schwer**    | Mittel          | Leicht        |
+| Ausfallzeit           | **Hoch**      | Niedrig       | Niedrig         | Niedrig       |
+
+
+| Variante | Ideal für | Vorteile     | Nachteile     |
 | --            | --            | --    | -- |
-| A | Non-technical Beginner | Free, Easy and Quick | When your computer is off your node will not be running so when you do want to use it you will have to wait for it to sync.|
-| B | Technical Enthusiast | Free | Requires significant time to setup & is technologically difficult if you have not used linux before.|
-| C | Less Technical Enthusiast | Reasonably low cost & quick | Requires some time to setup though typically guides specify hardware making setup as simple as following instructions precisely. |
-| D | Anyone who can comfortably afford this option | Quick and Easy | High cost compared to alternatives |
+| A | Nicht-technischer Anfänger | Kostenlos, einfach und schnell | Wenn der Computer ausgeschaltet ist, läuft deine Full-Node nicht. Wenn du die Node verwenden möchtest, musst du warten, bis sie synchronisiert ist. |
+| B | Technisch versierter Enthusiast | Gratis | Benötigt viel Zeit für die Einrichtung und ist technologisch fordernd, vor allem wenn du zuvor noch kein Linux verwendet hast. |
+| C | Nicht-technischer Enthusiast | Angemessen kostengünstig und schnell | Benötigt einige Zeit für die Einrichtung, obwohl in der Regel in den Handbüchern die Einrichtung der Hardware so einfach wie möglich angegeben ist. |
+| D | Jeder, der sich diese Variante bequem leisten kann | Schnell und einfach | Hohe Kosten im Vergleich zu den Alternativen |
 
 ##### Route A: Bitcoin-Core on your day to day computer
 - Download <a href="https://github.com/lightning-power-users/node-launcher/releases" target="_blank">NodeLauncher</a>, a simple program to help you intstall bitcoin core.
