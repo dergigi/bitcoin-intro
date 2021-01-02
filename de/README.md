@@ -210,10 +210,10 @@ Empfangen von Transaktionen verwendest.
 -----
 
 ## Schritt 11. Technische Details
-*Aim: Better understand how bitcoin works & the terminology*
+*Ziel: Besseres Verständnis der Funktionsweise von Bitcoin und der Terminologie*
 
-1. Watch <a href="https://www.youtube-nocookie.com/embed/bBC-nXj3Ng4" target="_blank">But How does bitcoin actually work</a>
-2. Watch <a href="https://www.youtube-nocookie.com/embed/Lx9zgZCMqXE" target="_blank">How Bitcoin Works Under the Hood</a>
+1. Schau dir <a href="https://www.youtube-nocookie.com/embed/bBC-nXj3Ng4" target="_blank">But How does bitcoin actually work</a> an
+2. Schau dir <a href="https://www.youtube-nocookie.com/embed/Lx9zgZCMqXE" target="_blank">How Bitcoin Works Under the Hood</a> an
 
 -----
 
