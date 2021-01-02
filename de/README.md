@@ -184,17 +184,17 @@ Empfangen von Transaktionen verwendest.
 *Ziel: Entdecke, wie du dich an Diskussionen über Bitcoin beteiligen kannst.*
 
 1. Nimm an einem <a href="https://bitcoin-only.com/#meetups" target="_blank">Meetup in deiner Nähe</a> teil.
-2. <a href="https://bitcoinops.org/en/newsletters/" target="_blank">Abonniere</a> den Bitcoin Optech Newsletter
+2. <a href="https://bitcoinops.org/en/newsletters/" target="_blank">Abonniere</a> den Bitcoin Optech Newsletter.
 3. Trete Twitter bei und folge Bitcoinern, auf die du stoßt.
 
 -----
 
 ## Schritt 9. Privatsphäre bewahren
-*Aim: Understand how and why to use bitcoin in a private way*
+*Ziel: Verstehe wie und warum man Bitcoin privat verwendet*
 
-1. Read how to <a href="https://github.com/6102bitcoin/FAQ/blob/master/hodl-privacy.md" target="_blank">Hodl Privately</a>
-2. Read about <a href="https://6102bitcoin.com/img/001_What_is_bitcoin_taint.png" target="_blank">What is bitcoin taint</a>,  <a href="https://6102bitcoin.com/img/002_Are_Chain_Analysis_Heuristics_Reliable.png" target="_blank">Are Chain Analysis Heuristics reliable</a> & <a href="https://6102bitcoin.com/img/003_Blacklisting_Distance_Proximity.png" target="_blank">Blacklisting, Distance & Proximity</a>
-3. Learn more about <a href="https://github.com/6102bitcoin/CoinJoin-Research/blob/master/CoinJoin_Research/CoinJoin_Discussion/CoinJoin_FAQ.md" target="_blank">CoinJoin</a>
+1. Lese den <a href="https://github.com/6102bitcoin/FAQ/blob/master/hodl-privacy.md" target="_blank">HODL Privacy</a> Guide.
+2. Informiere dich über <a href="https://6102bitcoin.com/img/001_What_is_bitcoin_taint.png" target="_blank">Bitcoin Taint</a> und <a href="https://6102bitcoin.com/img/002_Are_Chain_Analysis_Heuristics_Reliable.png" target="_blank">Chain-Analysis</a> und <a href="https://6102bitcoin.com/img/003_Blacklisting_Distance_Proximity.png" target="_blank">Blacklisting</a>.
+3. Lerne mehr über <a href="https://github.com/6102bitcoin/CoinJoin-Research/blob/master/CoinJoin_Research/CoinJoin_Discussion/CoinJoin_FAQ.md" target="_blank">CoinJoin</a>.
 
 -----
 
