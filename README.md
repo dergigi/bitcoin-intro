@@ -63,7 +63,7 @@ AUD (0% Fee)
 
 CAD (BullBitcoin - 0.25% Fee)
 
-0. Check BullBitcoin on <a href="https://www.trustpilot.com/review/bullbitcoin.com" target="_blank">Trustpilot  
+0. Check BullBitcoin on <a href="https://www.trustpilot.com/review/bullbitcoin.com" target="_blank">Trustpilot</a>  
 1. Go to <a href="https://bullbitcoin.com/fund-your-account" target="_blank">Bull Bitcoin</a>.
 2. Deposit 25 CAD & Buy 25 CAD worth of bitcoin
 3. Paste your first bitcoin address from Step 1
