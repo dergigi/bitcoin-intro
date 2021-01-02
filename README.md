@@ -216,7 +216,7 @@ Though the methods explained in Step 2 are simple and easy for buying your first
 | Email & Phone         | **Not Required**      | Required              | Required              |
 | Name & Address        | **Not Required**      | **Not Required**      | Required              |
 | Relative Privacy      | **Great**             | Fair                  | Fair                  |
-| Examples              | BISQ / Vouchers | Bittr          | CashApp / Bull Bitcoin |
+| Examples              | BISQ / Vouchers | Relai          | CashApp / Bull Bitcoin |
 
 ##### BISQ
 0. <a href="https://bisq.network/downloads/Download" target="_blank">Download</a> & Install BISQ
