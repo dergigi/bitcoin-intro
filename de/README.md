@@ -27,7 +27,7 @@
 -----
 
 ## Schritt 1. Hol dir eine Wallet
-*Ziel: Erstellen und sichern Sie eine Bitcoin-Wallet*
+*Ziel: Erstelle und sichere eine Bitcoin Wallet*
 
 1. 	Lade dir <a href="https://play.google.com/store/apps/details?id=com.samourai.wallet" target="_blank">Samourai Wallet</a> für Android oder <a href="https://blockstream.com/green/" target="_blank">Blockstream Green Wallet</a> für iOS herunter.
 2.	Erstelle dort eine neue Wallet und schreibe dir die Wörter, die dir dargestellt
