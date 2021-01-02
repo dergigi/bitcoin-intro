@@ -48,16 +48,16 @@ deine Backup-Redundanz).
 - Die folgenden Empfehlungen lassen dich schnell zu etwas Bitcoin kommen, auf Kosten deiner Privatsphäre.
 - Wie du Bitcoin privat kaufen kannst wird in einem <a href="#schritt-12-privat-kaufen" target="_blank">späteren Schritt</a> beschrieben.
 
-USD (1.5% Gebühr)
+USD (Cash App - 1.5% Gebühr)
 
-0. Schau dir CashApp auf <a href="https://www.trustpilot.com/review/cash.app" target="_blank">Trustpilot</a> an.
-1. Lade dir <a href="https://cash.app/" target="_blank">CashApp</a> aus dem App Store herunter.
+0. Schau dir Cash App auf <a href="https://www.trustpilot.com/review/cash.app" target="_blank">Trustpilot</a> an.
+1. Lade dir <a href="https://cash.app/" target="_blank">Cash App</a> aus dem App Store herunter.
 2. Erstelle ein Konto und verbinde deine Debitkarte.
 3. Kaufe Bitcoin (BTC) im Wert von ca. 25 USD.
-4. Suche in der App die Schaltfläche Bitcoin abheben, gib einen Betrag ein und füge deine erste
+4. Suche in der App die Schaltfläche Bitcoin abheben, gib einen Betrag ein und füge deine
 Bitcoin-Adresse ein (siehe Schritt 1). Warte, bis das Guthaben in deiner Wallet angezeigt wird (sollte weniger als 24 Stunden dauern).
 
-AUD (0% Gebühr)
+AUD (Bitaroo - 0% Gebühr)
 
 0. Schau dir Bitaroo auf <a href="https://au.trustpilot.com/review/www.bitaroo.com.au" target="_blank">Trustpilot</a> an.
 1. Gehe auf <a href="https://trade.bitaroo.com.au/express" target="_blank">Bitaroo Express Buy</a>.
@@ -67,25 +67,31 @@ AUD (0% Gebühr)
 5. Warte, bis das Guthaben in deiner Wallet angezeigt wird (sollte weniger als 24 Stunden dauern).
 
 
-CAD (BullBitcoin - 0.25% Fee)
+CAD (Bull Bitcoin - 0.25% Gebühr)
 
-0. Check BullBitcoin on <a href="https://www.trustpilot.com/review/bullbitcoin.com" target="_blank">Trustpilot  
-1. Go to <a href="https://bullbitcoin.com/fund-your-account" target="_blank">Bull Bitcoin</a>.
-2. Deposit 25 CAD & Buy 25 CAD worth of bitcoin
-3. Paste your first bitcoin address from Step 1
-4. Wait for the funds to appear in green wallet (< 24 hrs)
-
-CHF (any SBB ticket machine - 6% Fee)
-
-0. Withdraw cash (CHF or EUR) & Locate an SBB ticket machine.
-1. Select “Prepaid” then “Top up Bitcoin”
-2. Scan the QR code on your Bitcoin wallet
-3. Enter your desired amount (any sum between CHF 150 and CHF 500)
-4. Confirm the offer received
-5. Enter your mobile number and the security code (mTAN) sent to your phone
+0. Schau dir Bull Bitcoin auf <a href="https://www.trustpilot.com/review/bullbitcoin.com" target="_blank">Trustpilot</a> an.
+1. Gehe zu <a href="https://bullbitcoin.com/fund-your-account" target="_blank">Bull Bitcoin</a>.
+2. Zahle 25 CAD ein und kaufe Bitcoin (BTC) im Wert von 25 CAD.
+3. Füge deine Bitcoin-Adresse von Schritt 1 ein.
+4. Warte, bis das Guthaben in deiner Wallet angezeigt wird (sollte weniger als 24 Stunden dauern).
 
 
-Congrats you now officially hold some BTC. As long as you keep those 24 words safe nobody can steal the funds from the wallet you have created. Without these words (known as your seed words or your private key) nobody can access your bitcoin wallet.
+CHF (jeder SBB Ticketautomat - 6% Fee)
+
+0. Hebe etwas Bargeld ab (CHF oder EUR) und gehe zum nächsten SBB-Ticketautomaten.
+1. Wähle "Prepaid" und dann "Bitcoin aufladen".
+2. Öffne deine Bitcoin-Wallet auf deinem Handy, und klicke auf Bitcoin empfangen
+3. Scanne den QR-Code welcher in deiner Bitcoin-Wallet angezeigt wird am Automaten ein
+4. Gib den gewünschten Betrag ein (eine beliebige Summe zwischen CHF 150 und CHF 500)
+5. Bestätige das erhaltene Angebot
+6. Gib deine Handynummer und den Sicherheitscode (mTAN) ein, welcher an dein Handy gesendet
+wurde
+
+Herzlichen Glückwunsch! Du besitzt nun offiziell etwas Bitcoin. Solange du diese
+24 Wörter sicher aufbewahrst, kann niemand das Geld aus der von dir erstellten
+Wallet stehlen. Ohne diese Wörter (bekannt als deine "Seed Phrase" oder auch
+"private key" - privater Schlüssel) kann niemand auf deine Bitcoin-Wallet
+zugreifen.
 
 -----
 
