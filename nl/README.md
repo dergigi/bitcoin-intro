@@ -1,6 +1,6 @@
 <!-- Version: 0.01 NL -->
 
-| <a href="/" >English</a> | <a href="/es/">Español</a> | <a href="/ar/">العربية</a> | <a href="/it/">Italiano</a> | <a href="/nl/">Nederlands</a> | <a href="/fi/">Suomi</a> | <a href="/pt/">Português</a> |
+| <a href="/" >English</a> | <a href="/es/">Español</a> | <a href="/ar/">العربية</a> | <a href="/it/">Italiano</a> | <a href="/nl/">Nederlands</a> | <a href="/fi/">Suomi</a> | <a href="/pt/">Português</a> | <a href="/de/">German</a> |
 
 ###### Belangrijke Principes
 - Simpel beginnen en jezelf verbeteren is beter dan helemaal niet beginnen
@@ -31,11 +31,11 @@
 1. 	Download de <a href="https://blockstream.com/green/" target="_blank">Blockstream Green wallet</a>.
 2.	Volg de stappen in de app om een nieuwe wallet aan te maken. De 24 woorden die je opschrijft zijn de sleutel tot jouw bitcoin!
 3.  Maak een kopie van de 24 woorden en bewaar ze veilig, bijvoorbeeld in je kluis.
-4.	Om bitcoin te ontvangen klik je op "receive" en kopieer je het adres dat je te zien krijgt. 
+4.	Om bitcoin te ontvangen klik je op "receive" en kopieer je het adres dat je te zien krijgt.
 
 -----
 
-## Stap 2. Koop bitcoin 
+## Stap 2. Koop bitcoin
 *Doel: Een kleine hoeveelheid bitcoin in je wallet krijgen*
 
 - Koop om te beginnen een kleine hoeveelheid sats (of "satoshi's", 1/100 miljoenste bitcoin), zodat je kunt uitvinden hoe het kopen werkt
@@ -76,7 +76,7 @@ Gefeliciteerd! Je hebt nu (een gedeelte van een) bitcoin. Zo lang je de 24 woord
 *Doel: Leer meer over Bitcoin, hoe het werkt, en waarom het belangrijk is *
 
 ###### Luister
-1. <a href="https://youtu.be/Zbm772vF-5M?t=308" target="_blank">Presentatie over The Bitcoin Standard</a> 
+1. <a href="https://youtu.be/Zbm772vF-5M?t=308" target="_blank">Presentatie over The Bitcoin Standard</a>
 2. <a href="https://youtu.be/OrMHQhDKhrU" target="_blank">Intro to Bitcoin Austrian thought</a>
 
 ###### Lees
@@ -133,7 +133,7 @@ N.b.: Het gebruiken van een Node heeft alleen maar voordeel als je hem ook daadw
 - Andere opties: <a href="https://stadicus.github.io/RaspiBolt/" target="_blank">RaspiBolt</a> / <a href="https://github.com/rootzoll/raspiblitz" target="_blank">RaspiBlitz</a>
 
 ##### Optie D: Koop een voorgebouwde gespecialiseerde Node
-- Een iets goedkopere optie met je eigen full-stack Bitcoin Node: <a href="http://mynodebtc.com/products/one" target="_blank">MyNodeBTC</a> / <a href="https://shop.fulmo.org/" target="_blank">Raspiblitz</a> 
+- Een iets goedkopere optie met je eigen full-stack Bitcoin Node: <a href="http://mynodebtc.com/products/one" target="_blank">MyNodeBTC</a> / <a href="https://shop.fulmo.org/" target="_blank">Raspiblitz</a>
 - Maximale performance: <a href="https://www.nodl.it/" target="_blank">NODL</a> / <a href="https://shop.nodl.it/en/home/38-nodl-samourai-edition.html" target="_blank">NODL Samourai</a>
 
 -----
@@ -143,7 +143,7 @@ N.b.: Het gebruiken van een Node heeft alleen maar voordeel als je hem ook daadw
 
 1. Ga naar een <a href="https://bitcoin-only.com/#meetups" target="_blank">lokale  meetup</a>
 2. <a href="https://bitcoinops.org/en/newsletters/" target="_blank">Subscribe</a> je op bitcoin op-tech
-3. Maak een Twitter-account aan en volg bitcoiners die je tegenkomt 
+3. Maak een Twitter-account aan en volg bitcoiners die je tegenkomt
 
 -----
 
@@ -195,7 +195,7 @@ De manieren van Bitcoin kopen die in stap 2 beschreven zijn, zijn makkelijk in g
 1. Stel je lokale valuta in
 2. Klik bovenin op BUY BTC
 3. Maak een kooporder aan (Create offer to buy BTC with [...])
-4. Stuur je geld naar de verkoper zoals aangegeven in BISQ 
+4. Stuur je geld naar de verkoper zoals aangegeven in BISQ
 5. Verstuur je Bitcoin naar het adres wat je in stap 1 hebt aangemaakt
 
 *Let op: BISQ is peer-to-peer, wat inhoudt dat je van een individu koopt. Je bent zelf verantwoordelijk om je aan lokale wetten & regels te houden*

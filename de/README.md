@@ -1,7 +1,7 @@
 <!-- Version: 0.03 EN -->
 
 | <a href="/" >English</a> | <a href="/es/">Español</a> | <a href="/ar/">العربية</a> | <a href="/it/">Italiano</a> |
-| <a href="/nl/">Nederlands</a> | <a href="/fi/">Suomi</a> | <a href="/pt/">Português</a> |
+| <a href="/nl/">Nederlands</a> | <a href="/fi/">Suomi</a> | <a href="/pt/">Português</a> | <a href="/de/">German</a> |
 
 ###### Leitprinzipien
 - Einfache Schritte wagen und sich langsam zu verbessern ist besser als gar nicht anzufangen

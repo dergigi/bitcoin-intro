@@ -1,7 +1,6 @@
 <!-- Version: 0.03 EN -->
 
-| <a href="/" >English</a> | <a href="/es/">Español</a> | <a href="/ar/">العربية</a> | <a href="/it/">Italiano</a> | 
-| <a href="/nl/">Nederlands</a> | <a href="/fi/">Suomi</a> | <a href="/pt/">Português</a> |
+| <a href="/" >English</a> | <a href="/es/">Español</a> | <a href="/ar/">العربية</a> | <a href="/it/">Italiano</a> | <a href="/nl/">Nederlands</a> | <a href="/fi/">Suomi</a> | <a href="/pt/">Português</a> | <a href="/de/">German</a> |
 
 ###### Guiding Principles
 - Starting simply and improving is better than than not starting at all
@@ -45,7 +44,7 @@
 
 USD (1.5% Fee)
 
-0. Check cashapp on <a href="https://www.trustpilot.com/review/cash.app" target="_blank">Trustpilot</a> 
+0. Check cashapp on <a href="https://www.trustpilot.com/review/cash.app" target="_blank">Trustpilot</a>
 1. Download <a href="https://cash.app/" target="_blank">Cashapp</a> from the app store.
 2. Make an account & connect a Debit Card.
 3. Buy 25 USD of BTC.
@@ -53,11 +52,11 @@ USD (1.5% Fee)
 
 AUD (0% Fee)
 
-0. Check Bitaroo on <a href="https://au.trustpilot.com/review/www.bitaroo.com.au" target="_blank">Trustpilot</a> 
+0. Check Bitaroo on <a href="https://au.trustpilot.com/review/www.bitaroo.com.au" target="_blank">Trustpilot</a>
 1. Go to <a href="https://trade.bitaroo.com.au/express" target="_blank">Bitaroo Express Buy</a>.
 2. Sign up & deposit 25 AUD.
 3. Buy 25 AUD of BTC.
-4. Click 'Withdraw', paste your first bitcoin address from Step 1, click 'max' amount to withdraw, confirm.	
+4. Click 'Withdraw', paste your first bitcoin address from Step 1, click 'max' amount to withdraw, confirm.
 5. Wait for the funds to appear in green wallet (< 24 hrs).
 
 
@@ -71,7 +70,7 @@ CAD (BullBitcoin - 0.25% Fee)
 
 CHF (any SBB ticket machine - 6% Fee)
 
-0. Withdraw cash (CHF or EUR) & Locate an SBB ticket machine. 
+0. Withdraw cash (CHF or EUR) & Locate an SBB ticket machine.
 1. Select “Prepaid” then “Top up Bitcoin”
 2. Scan the QR code on your Bitcoin wallet
 3. Enter your desired amount (any sum between CHF 150 and CHF 500)

@@ -1,6 +1,6 @@
 <!-- Version: 0.03 EN -->
 
-| <a href="/" >English</a> | <a href="/es/">Español</a> | <a href="/ar/">العربية</a> | <a href="/it/">Italiano</a> | <a href="/nl/">Nederlands</a> | <a href="/fi/">Suomi</a> | <a href="/pt/">Português</a> |
+| <a href="/" >English</a> | <a href="/es/">Español</a> | <a href="/ar/">العربية</a> | <a href="/it/">Italiano</a> | <a href="/nl/">Nederlands</a> | <a href="/fi/">Suomi</a> | <a href="/pt/">Português</a> | <a href="/de/">German</a> |
 
 ###### Pääperiaatteita
 - Yksinkertaisesta aloittaminen ja vähittäinen kehittyminen on parempi kuin, ettei aloita ollenkaan
@@ -44,7 +44,7 @@
 
 USD (1.5% Palvelumaksu)
 
-0. Tutustu Cashapp-sovellukseen <a href="https://www.trustpilot.com/review/cash.app" target="_blank">Trustpilot-sivustolla</a> 
+0. Tutustu Cashapp-sovellukseen <a href="https://www.trustpilot.com/review/cash.app" target="_blank">Trustpilot-sivustolla</a>
 1. Lataa <a href="https://cash.app/" target="_blank">Cashapp</a> app storesta.
 2. Luo tili & yhdistä maksukorttiin.
 3. Osta 25 USD edestä bitcoinia (BTC).
@@ -53,11 +53,11 @@ USD (1.5% Palvelumaksu)
 
 AUD (0% Palvelumaksu)
 
-0. Tutustu Bitaroohon <a href="https://au.trustpilot.com/review/www.bitaroo.com.au" target="_blank">Trustpilot-sivustolla</a> 
+0. Tutustu Bitaroohon <a href="https://au.trustpilot.com/review/www.bitaroo.com.au" target="_blank">Trustpilot-sivustolla</a>
 1. Mene osoitteeseen <a href="https://trade.bitaroo.com.au/express" target="_blank">Bitaroo Express Buy</a>.
 2. Luo käyttäjä & talleta 25 AUD.
 3. Osta 25 AUD edestä bitcoinia (BTC).
-4. Paina kohdasta 'Withdraw', kirjoita/liitä ensimmäisessä kohdassa kopioimasi ensimmäinen bitcoin-osoitteesi vastaanottajakenttään, paina kohdasta 'max amount to withdraw', nostaaksesi kaikki varat ja paina 'confirm' hyväksyäksesi.	
+4. Paina kohdasta 'Withdraw', kirjoita/liitä ensimmäisessä kohdassa kopioimasi ensimmäinen bitcoin-osoitteesi vastaanottajakenttään, paina kohdasta 'max amount to withdraw', nostaaksesi kaikki varat ja paina 'confirm' hyväksyäksesi.
 5. Odota, että varat näkyvät lompakossasi (< 24 tuntia).
 
 
@@ -71,7 +71,7 @@ CAD (BullBitcoin - 0.25% Palvelumaksu)
 
 CHF (millä vain SBB-lippuautomaatilla - 6% Palvelumaksu)
 
-0. Nosta käteistä (CHF or EUR) & mene SBB-lippuautomaatille. 
+0. Nosta käteistä (CHF or EUR) & mene SBB-lippuautomaatille.
 1. Valitse “Prepaid” ja sen jälkeen “Top up Bitcoin”
 2. Lue QR-koodi bitcoin-lompakollasi
 3. Syötä haluamasi summa (väliltä CHF 100 ja CHF 500)

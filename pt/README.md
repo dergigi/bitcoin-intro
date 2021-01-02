@@ -1,6 +1,6 @@
 <!-- Version: 0.01 PT -->
 
-| <a href="/" >English</a> | <a href="/es/">Español</a> | <a href="/ar/">العربية</a> | <a href="/it/">Italiano</a> | <a href="/nl/">Nederlands</a> | <a href="/fi/">Suomi</a> | <a href="/pt/">Português</a> |
+| <a href="/" >English</a> | <a href="/es/">Español</a> | <a href="/ar/">العربية</a> | <a href="/it/">Italiano</a> | <a href="/nl/">Nederlands</a> | <a href="/fi/">Suomi</a> | <a href="/pt/">Português</a> | <a href="/de/">German</a> |
 
 ###### Princípios para orientação
 - Começar de forma simples e melhorar é melhor do que não começar
@@ -183,7 +183,7 @@ Nota: Rodar um node apenas beneficiará você se você usar seu node para enviar
 
 -----
 
-## Passo 10. Micropagamentos no Bitcoin (Lightning) 
+## Passo 10. Micropagamentos no Bitcoin (Lightning)
 *Objetivo: Entender o que é lighting network e como você pode usá-la.*
 
 1. Baixe uma carteira lighting de bitcoin em que você tem a custódia das chaves privadas.

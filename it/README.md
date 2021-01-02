@@ -1,6 +1,6 @@
 <!-- Version: 0.01 IT -->
 
-| <a href="/" >English</a> | <a href="/es/">Español</a> | <a href="/ar/">العربية</a> | <a href="/it/">Italiano</a> | <a href="/nl/">Nederlands</a> | <a href="/fi/">Suomi</a> | <a href="/pt/">Português</a> |
+| <a href="/" >English</a> | <a href="/es/">Español</a> | <a href="/ar/">العربية</a> | <a href="/it/">Italiano</a> | <a href="/nl/">Nederlands</a> | <a href="/fi/">Suomi</a> | <a href="/pt/">Português</a> |  | <a href="/de/">German</a> |
 
 ###### Principi Guida
 - Partire in modo semplice e migliorare è meglio che non partire affatto
@@ -38,27 +38,27 @@
 ## Punto 2. Acquista qualche bitcoin
 *Obiettivo: ottenere una piccola quantità di bitcoin*
 
-- Compra solo una piccola quantità di bitcoin per iniziare (in un passo successivo miglioreremo la ridondanza del backup). 
+- Compra solo una piccola quantità di bitcoin per iniziare (in un passo successivo miglioreremo la ridondanza del backup).
 - Queste raccomandazioni ti permettono di acquistare bitcoin velocemente ma il costo è una riduzione della tua privacy.
 - Come acquistare privatamente è spiegato in un <a href="#step-12-buying-privately" target="_blank">passo successivo.</a>
 
 USD (commissione 1.5%)
 
-0. Dai un'occhiata a cashapp su <a href="https://www.trustpilot.com/review/cash.app" target="_blank">Trustpilot</a>. 
+0. Dai un'occhiata a cashapp su <a href="https://www.trustpilot.com/review/cash.app" target="_blank">Trustpilot</a>.
 1. Scarica <a href="https://cash.app/" target="_blank">Cashapp</a> dall'app store.
 2. Crea un account e connetti una carta di debito.
 3. Acquista 25 USD di BTC.
-4. Trova il tasto Withdraw, specifica la quantità che vuoi prelevare e incolla il tuo primo indirizzo bitcoin dal Passo 1. 
+4. Trova il tasto Withdraw, specifica la quantità che vuoi prelevare e incolla il tuo primo indirizzo bitcoin dal Passo 1.
 5. Aspetta che i fondi appaiano in Green Wallet o Samourai. (< 24 ore).
 
 AUD (commissione 0%)
 
-0. Dai un'occhiata a Bitaroo su <a href="https://au.trustpilot.com/review/www.bitaroo.com.au" target="_blank">Trustpilot</a>. 
+0. Dai un'occhiata a Bitaroo su <a href="https://au.trustpilot.com/review/www.bitaroo.com.au" target="_blank">Trustpilot</a>.
 1. Vai su <a href="https://trade.bitaroo.com.au/express" target="_blank">Bitaroo Express Buy</a>.
 2. Iscriviti e deposita 25 AUD.
 3. Acquista 25 AUD di BTC.
-4. Clicca 'Withdraw', incolla il tuo primo indirizzo bitcoin dal Passo 1, clicca "max" amount da prelevare, conferma. 
-5. Aspetta che i fondi appaiano in Green Wallet o Samourai. (< 24 ore). 
+4. Clicca 'Withdraw', incolla il tuo primo indirizzo bitcoin dal Passo 1, clicca "max" amount da prelevare, conferma.
+5. Aspetta che i fondi appaiano in Green Wallet o Samourai. (< 24 ore).
 
 
 CAD (BullBitcoin - commissione 0.25%)
@@ -67,11 +67,11 @@ CAD (BullBitcoin - commissione 0.25%)
 1. Vai su <a href="https://bullbitcoin.com/fund-your-account" target="_blank">Bull Bitcoin</a>.
 2. Deposita 25 CAD & acquista 25 CAD di bitcoin.
 3. Incolla il tuo primo indirizzo bitcoin dal Passo 1.
-4. Aspetta che i fondi appaiano in Green Wallet o Samourai. (< 24 ore). 
+4. Aspetta che i fondi appaiano in Green Wallet o Samourai. (< 24 ore).
 
 CHF/EUR (Una qualunque SBB ticket machine - commissione 6%)
 
-0. Preleva contanti (CHF o EUR) & trova una SBB ticket machine. 
+0. Preleva contanti (CHF o EUR) & trova una SBB ticket machine.
 1. Seleziona “Prepagata” e poi “Ricarica Bitcoin”.
 2. Scansiona il QR code del tuo portafoglio Bitcoin.
 3. Inserisci la quantità desiderata (qualunque somma tra CHF 100 e CHF 500).
@@ -229,6 +229,5 @@ Nonostante i metodi spiegati nel Passo 2 siano un modo semplice di acquistare i 
 
 ##### Voucher
 0.  Controlla i commercianti intorno a te che vendono voucher su <a href="https://azte.co/vendors.html" target="_blank">Azteco</a> o <a href="https://fastbitcoins.com/#locations" target="_blank">FastBitcoins</a>
-1.  Se non ci sono venditori locali, controlla le altre opzioni. Se ci sono, compra il voucher più economico e segui le istruzioni per inviare i bitcoin sul tuo portafoglio. 
+1.  Se non ci sono venditori locali, controlla le altre opzioni. Se ci sono, compra il voucher più economico e segui le istruzioni per inviare i bitcoin sul tuo portafoglio.
 2.  Quando richiesto, incolla il tuo indirizzo bitoin, come da passo 1.
-
