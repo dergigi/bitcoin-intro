@@ -26,7 +26,7 @@
 
 -----
 
-## Step 1. Get a Wallet
+## Schritt 1. Hol dir eine Wallet
 *Aim: Make and backup a bitcoin wallet*
 
 1. 	Download <a href="https://play.google.com/store/apps/details?id=com.samourai.wallet" target="_blank">Samourai Wallet</a> for Android or <a href="https://blockstream.com/green/" target="_blank">Blockstream Green wallet for iOS</a>.
@@ -36,7 +36,7 @@
 
 -----
 
-## Step 2. Buy some bitcoin
+## Schritt 2. Kaufe etwas Bitcoin
 *Aim: Get a small amount of bitcoin*
 
 - Only buy a small amount of bitcoin to start (in a later step we will improve your backup redundancy).
@@ -83,7 +83,7 @@ Congrats you now officially hold some BTC. As long as you keep those 24 words sa
 
 -----
 
-## Step 3. Why use bitcoin?
+## Schritt 3. Warum sollte man Bitcoin verwenden?
 *Aim: Learn why bitcoin is useful*
 
 1. Read '<a href="https://medium.com/@wiz/why-bitcoin-359ada12629e" target="_blank">Why Bitcoin</a>' by [Wiz](https://twitter.com/wiz)
@@ -92,7 +92,7 @@ Congrats you now officially hold some BTC. As long as you keep those 24 words sa
 
 -----
 
-## Step 4. What is bitcoin?
+## Schritt 4. Was ist Bitcoin?
 *Aim: Learn what bitcoin is*
 
 1. Read '<a href="https://bitcoin-only.com/#bitcoin" target="_blank">What Is Bitcoin</a>' by [Greg Walker](https://twitter.com/in3rsha)
@@ -100,7 +100,7 @@ Congrats you now officially hold some BTC. As long as you keep those 24 words sa
 
 -----
 
-## Step 5. Further Learning
+## Schritt 5. Lerne mehr über Bitcoin
 *Aim: Further develop your understanding of bitcoin*
 
 ###### Listen
@@ -114,7 +114,7 @@ Congrats you now officially hold some BTC. As long as you keep those 24 words sa
 
 -----
 
-## Step 6. Better Backup
+## Schritt 6. Verbessere dein Backup
 *Aim: Improve your backup so you are ready in-case bitcoin goes up in price or you decide to buy more.*
 
 1. Read the <a href="https://github.com/6102bitcoin/FAQ/blob/master/seed.md" target="_blank">Seed FAQ</a>
@@ -123,7 +123,7 @@ Congrats you now officially hold some BTC. As long as you keep those 24 words sa
 
 -----
 
-# Step 7. Running a Node
+# Schritt 7. Lass eine Node laufen
 *Aim: Understand how and why bitcoiners run their own full nodes.*
 
 Note: Running a node only benefits you if you use your node to send and receive transactions.
@@ -166,7 +166,7 @@ Note: Running a node only benefits you if you use your node to send and receive 
 
 -----
 
-## Step 8. Joining In
+## Schritt 8. Involviere Dich!
 *Aim: Discover how to get involved in discussions about bitcoin.*
 
 1. Attend a <a href="https://bitcoin-only.com/#meetups" target="_blank">local meetup</a>
@@ -175,7 +175,7 @@ Note: Running a node only benefits you if you use your node to send and receive 
 
 -----
 
-## Step 9. Bitcoin privacy
+## Schritt 9. Privatsphäre bewahren
 *Aim: Understand how and why to use bitcoin in a private way*
 
 1. Read how to <a href="https://github.com/6102bitcoin/FAQ/blob/master/hodl-privacy.md" target="_blank">Hodl Privately</a>
@@ -184,7 +184,7 @@ Note: Running a node only benefits you if you use your node to send and receive 
 
 -----
 
-## Step 10. Bitcoin MicroPayments
+## Schritt 10. Bitcoin MicroPayments (Lightning)
 *Aim: Understand what the lightning network is and how you can use it.*
 
 1. Download a non-custodial bitcoin lightning wallet
@@ -195,7 +195,7 @@ Note: Running a node only benefits you if you use your node to send and receive 
 
 -----
 
-## Step 11. Technical Details
+## Schritt 11. Technische Details
 *Aim: Better understand how bitcoin works & the terminology*
 
 1. Watch <a href="https://www.youtube-nocookie.com/embed/bBC-nXj3Ng4" target="_blank">But How does bitcoin actually work</a>
@@ -203,7 +203,7 @@ Note: Running a node only benefits you if you use your node to send and receive 
 
 -----
 
-## Step 12. Buying Privately
+## Schritt 12. Privat Kaufen
 
 Though the methods explained in Step 2 are simple and easy for buying your first bitcoin it is worth considering more private options for further buying.
 
