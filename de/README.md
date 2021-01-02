@@ -181,11 +181,11 @@ Empfangen von Transaktionen verwendest.
 -----
 
 ## Schritt 8. Involviere Dich!
-*Aim: Discover how to get involved in discussions about bitcoin.*
+*Ziel: Entdecke, wie du dich an Diskussionen über Bitcoin beteiligen kannst.*
 
-1. Attend a <a href="https://bitcoin-only.com/#meetups" target="_blank">local meetup</a>
-2. <a href="https://bitcoinops.org/en/newsletters/" target="_blank">Subscribe</a> to bitcoin op-tech
-3. Join Twitter and follow bitcoiners you come across.
+1. Nimm an einem <a href="https://bitcoin-only.com/#meetups" target="_blank">Meetup in deiner Nähe</a> teil.
+2. <a href="https://bitcoinops.org/en/newsletters/" target="_blank">Abonniere</a> den Bitcoin Optech Newsletter
+3. Trete Twitter bei und folge Bitcoinern, auf die du stoßt.
 
 -----
 
