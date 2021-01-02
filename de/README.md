@@ -127,11 +127,12 @@ zugreifen.
 -----
 
 ## Schritt 6. Verbessere dein Backup
-*Aim: Improve your backup so you are ready in-case bitcoin goes up in price or you decide to buy more.*
+*Verbessere dein Backup, damit du bereit bist, falls der Preis steigt oder du dich entscheidest mehr zu kaufen.*
 
-1. Read the <a href="https://github.com/6102bitcoin/FAQ/blob/master/seed.md" target="_blank">Seed FAQ</a>
-2. Pick a setup (e.g. Two full backups, one on paper one on stamped metal)
-3. Implement your selected setup
+1. Lese dazu den <a href="https://github.com/6102bitcoin/FAQ/blob/master/seed.md" target="_blank">Seed FAQ</a>.
+2. Wählen ein Setup (z. B. zwei vollständige Backups, eines auf Papier und eines auf
+gestanztem Metall).
+3. Setze dein ausgewähltes Setup in die Tat um
 
 -----
 
