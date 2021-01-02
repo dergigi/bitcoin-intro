@@ -218,30 +218,32 @@ Empfangen von Transaktionen verwendest.
 -----
 
 ## Schritt 12. Privat Kaufen
+*Ziel: Kaufe Bitcoin und achte gleichzeitig auf deine Privatsphäre*
 
-Though the methods explained in Step 2 are simple and easy for buying your first bitcoin it is worth considering more private options for further buying.
+Obwohl die in Schritt 2 erläuterten Methoden für den Kauf deiner ersten Bitcoin einfach und leicht
+sind, lohnt es sich, mehr private Optionen für den weiteren Kauf in Betracht zu ziehen.
 
-##### Overview table
+##### Übersichtstabelle
 
-|                       | Private Methods       | Semi-Private Methods  | Non-Private Methods   |
-| ---                   | ---                   | ---                   | ---                   |
-| Method of Payment     | Cash                  | Bank Transfer         | Debit Card            |
-| Interface             | In person             | Website               | Website               |
-| Email & Phone         | **Not Required**      | Required              | Required              |
-| Name & Address        | **Not Required**      | **Not Required**      | Required              |
-| Relative Privacy      | **Great**             | Fair                  | Fair                  |
-| Examples              | BISQ / Vouchers | Relai          | CashApp / Bull Bitcoin |
+|                       | Private Methoden       | Semi-Private Methoden  | Nicht-Private Methoden  |
+| ---                   | ---                    | ---                    | ---                     |
+| Zahlungsmethode       | Cash                   | Bank Transfer          | Debit Card              |
+| Austausch             | In person              | via Website            | via Website             |
+| Email & Telefonnummer | **Nicht erforderlich** | Erforderlich           | Erforderlich            |
+| Name & Adresse        | **Nicht erforderlich** | **Nicht erforderlich** | Erforderlich            |
+| Relative Privatsphäre | **Sehr Gut**           | Befriedigend           | Befriedigend            |
+| Beispiele             | BISQ / Gutscheine      | Relai                  | CashApp / Bull Bitcoin  |
 
 ##### BISQ
-0. <a href="https://bisq.network/downloads/Download" target="_blank">Download</a> & Install BISQ
-1. Set local currency
-2. Look for local sellers (Select BUY BTC button on top ribbon )
-3. Buy from local seller (Select Create new offer to buy BTC with ... )
-4. Withdraw bitcoin to bitcoin address from Step 1.
+0. Lade dir <a href="https://bisq.network/downloads/Download" target="_blank">BISQ</a> herunter und installiere es.
+1. Wähle deine lokale Währung aus.
+2. Suche nach lokalen Verkäufern (Wähle die Schaltfläche BTC KAUFEN in der oberen Menüleiste).
+3. Kaufe bei dem ausgewählten lokalen Verkäufer (Wähle 'Neues Angebot erstellen', um BTC mit deiner lokalen Währung zu kaufen).
+4. Überweise deine gekauften Bitcoin von deiner BISQ Wallet an deine eigene Wallet (siehe Schritt 1).
 
-*Note: As stated when installing BISQ, the user is responsible for using the software in compliance with local laws.*
+*Hinweis: Wie bei der Installation von BISQ angegeben, ist der Benutzer für die Verwendung der Software in Übereinstimmung mit den örtlichen Gesetzen verantwortlich.*
 
-##### Vouchers
-0.  Check whether there are any merchants near you who sell vouchers on <a href="https://azte.co/vendors.html" target="_blank">Azteco</a> or <a href="https://fastbitcoins.com/#locations" target="_blank">FastBitcoins</a>
-1.  If there aren't any local voucher vendors check out the below options. If there are, buy the minimum voucher denomination and follow the voucher instructions to redeem the bitcoin to your own wallet.
-2.  When prompted, paste your first bitcoin address from Step 1.
+##### Gutscheine
+
+0.  Überprüfe ob in deiner Nähe Anbieter sind welche Gutscheine via <a href="https://azte.co/" target="_blank">Azteco</a> oder <a href="https://fastbitcoins.com/#locations" target="_blank">FastBitcoins</a> verkaufen.
+1. Falls es Anbieter gibt, kauf einen Gutschein und überweise die gekaufen Bitcoin an eine Adresse deiner eigenen Wallet (siehe Schritt 1).
